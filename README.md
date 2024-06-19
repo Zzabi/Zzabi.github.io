@@ -1,9 +1,30 @@
 # Mohammed Zabiullah C
 
 # Education
-- B.E. AIML | Dayananda Sagar Academy of Technology and Management - **8.9** CGPA								       		
+<table>
+  <tr>
+    <td>B.E</td>
+    <td>Artificial Intelligence and Machine Learning</td>
+    <td>Dayananda Sagar Academy of Technology and Management</td>
+    <td>8.9 CGPA</td>
+  </tr>
+  <tr>
+    <td>PUC</td>
+    <td>PCMB</td>
+    <td>Narayana PU College</td>
+    <td>91.83%</td>
+  </tr>
+  <tr>
+    <td>SSLC</td>
+    <td>State Board</td>
+    <td>Noble Saint English School</td>
+    <td>76.32 %</td>
+  </tr>
+</table>
+
+<!-- - B.E. AIML | Dayananda Sagar Academy of Technology and Management - **8.9** CGPA								       		
 - PUC (PCMB) | Narayana PU College - **91.83%**
-- SSLC | Noble Saint English School - **76.32%**
+- SSLC | Noble Saint English School - **76.32%** -->
 
 # Work Experience
 **Internee (_August 2023 - September 2023_) - Varcons Technologies**
