@@ -1,9 +1,7 @@
-# AIML Enthusiast
-
-### Technical Skills: Python, Machine Learning, Java, Git, Firebase, MySQL
+# Mohammed Zabiullah C
 
 # Education
-- B.E. Artificial Intelligence and Machine Learning | Dayananda Sagar Academy of Technology and Management - **8.9** CGPA								       		
+- B.E. AIML | Dayananda Sagar Academy of Technology and Management - **8.9** CGPA								       		
 - PUC (PCMB) | Narayana PU College - **91.83%**
 - SSLC | Noble Saint English School - **76.32%**
 
@@ -36,3 +34,48 @@
 - Developed a deep learning model that classifies facial emotions into seven categories: angry, disgust, fear, happy, neutral, sad, and surprise.
 -  The model has been trained on the FER-2013 dataset and achieves an accuracy of 90% after 30 epochs.
 
+## Technical Skills
+<table>
+  <tr>
+    <td>Python</td>
+    <td>Scikit Learn</td>
+    <td>Pandas</td>
+    <td>Numpy</td>
+    <td>Tensorflow</td>
+  </tr>
+  <tr>
+    <td>Torch</td>
+    <td>Streamlit</td>
+    <td>Firebase</td>
+    <td>Git/GitHub</td>
+    <td>MySQL</td>
+  </tr>
+  <tr>
+    <td>HTML/CSS</td>
+    <td>Java (Basics)</td>
+    <td>C/C++ (Basics)</td>
+    <td>Linux</td>
+    <td>Colab</td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td>Deep Learning</td>
+    <td>Android Development</td>
+    <td>Dataset Preparation</td>
+    <td>Project Management</td>
+  </tr>
+</table>
+
+## Certifications
+- Python [Coursera]()
+- Java [Infoysy Springboard](https://github.com)
+
+## Achievements
+- Won 1st place in a Hackathon conducted at the institute.
+- Awarded Best Project at the Department’s Open day.
+
+## Extracurricular
+
+## Interests
+
+## Contact
