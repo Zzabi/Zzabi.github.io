@@ -1,0 +1,10 @@
+title: Mohammed Zabiullah C
+logo: images/logo.png
+#description: text below image
+show_downloads: false
+# theme: jekyll-theme-minimal
+remote_theme: "godalming123/minimal"
+plugins:
+- jekyll-remote-theme
+
+color-scheme: ["auto-default-dark"]
