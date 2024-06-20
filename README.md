@@ -105,7 +105,7 @@
 - Earned a Gold Badge on HackerRank for Python coding skills. <a href="https://drive.google.com/file/d/1fEggcYdHNSPEYzf-EAmPXpwDrqCnNAD5/view?usp=sharing"><img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 
 ## Extracurricular
-**Volunteer (_October 2020 - March 2024_) - Way For Life**<a href="https://drive.google.com/drive/folders/1EiiVPE90ThcTNm_EgAAF7BN7La7AyOA2?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="15" height="15"></a>
+**Volunteer (_October 2022 - March 2024_) - Way For Life**<a href="https://drive.google.com/drive/folders/1EiiVPE90ThcTNm_EgAAF7BN7La7AyOA2?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="15" height="15"></a>
 - Volunteered with an NGO conducting research on government schools, old age homes, and orphanages, while also leading tree planting and community cleaning drives.
 
 ## Interests
