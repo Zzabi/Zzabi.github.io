@@ -91,6 +91,9 @@
 - Python _Coursera_ <a href="https://drive.google.com/file/d/1nJTJ9ecLb8AI1R8b4zrHQiU6ElApyiOr/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
 - Java _Infoysy Springboard_ <a href="https://drive.google.com/file/d/1wsMNShLF-mHeIScaIgYbweFU6ZtGUqId/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
 - Android Application Development _Great Learning_ <a href="https://drive.google.com/file/d/1smcLGOihDKbwuRxkDvdlcpIeRjocIgTr/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
+- Machine Learning _Infosys Springboard_ <a href="https://drive.google.com/file/d/1zEM8IMvbQKGL3giwXOH3CNFXpIr0S5nx/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
+- Deep Learning _Infosys Springboard_ <a href="https://drive.google.com/file/d/1K3qE2I4XXYBPWqsDxIEehAJpB-4hZmr9/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
+- Power BI _Infosys Springboard_ <a href="https://drive.google.com/file/d/1ypuvT-_dEzwhpUjgsOUaWpA3n-XKkiBT/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
 - Workshops on IOT,AIML, Web Development, Computer Vision, Communication Skills, Decision Making conducted at Dept of AIML, DSATM <a href="https://drive.google.com/drive/folders/1-T0eIwkzZqLlrbEgB-3qe2Q9khJwac7B?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
 
 
@@ -99,8 +102,10 @@
 
 - Awarded Best Project at the Department’s Open day.<a href="https://drive.google.com/drive/folders/11ApkhpzVWIk1dp-wjF8Z6nb8vFbPwgeS?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 
+- Earned a Gold Badge on HackerRank for Python coding skills. <a href="https://drive.google.com/file/d/1fEggcYdHNSPEYzf-EAmPXpwDrqCnNAD5/view?usp=sharing"><img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
+
 ## Extracurricular
-**Volunteer (_October 2020 - March 2024_) - Way For Life**
+**Volunteer (_October 2020 - March 2024_) - Way For Life**<a href="https://drive.google.com/drive/folders/1EiiVPE90ThcTNm_EgAAF7BN7La7AyOA2?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="15" height="15"></a>
 - Volunteered with an NGO conducting research on government schools, old age homes, and orphanages, while also leading tree planting and community cleaning drives.
 
 ## Interests
