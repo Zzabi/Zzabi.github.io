@@ -1,4 +1,4 @@
-# Mohammed Zabiullah C
+# Machine Learning Enthusiast
 
 ## Education
 <table>
@@ -18,7 +18,7 @@
     <td>SSLC</td>
     <td>State Board</td>
     <td>Noble Saint English School</td>
-    <td>76.32 %</td>
+    <td>76.32%</td>
   </tr>
 </table>
 
@@ -27,7 +27,7 @@
 - SSLC | Noble Saint English School - **76.32%** -->
 
 ## Work Experience
-**Internee (_August 2023 - September 2023_) - Varcons Technologies**
+**Internee (_August 2023 - September 2023_) - Varcons Technologies**<a href="https://drive.google.com/file/d/1NkVQvr4G1gqMc4WcAEVY15ieB0uYDvIs/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="15" height="15"></a>
 - Worked with Twitter's Developer API (now X) to extract and process tweets for sentiment analysis using BERT and TF-IDF vectorizer.
 - Analyzed the impact of Twitter sentiment on stock prices by training a predictive model using stock data.
 - Increased the accuracy of the sentiment classifier model by 5% through fine-tuning
@@ -97,7 +97,7 @@
 ## Achievements
 - Won 1st place in a Coding contest conducted at the institute.<a href="https://drive.google.com/drive/folders/170TE9JRZBKinvLg0_pAL69TSqAN6dLFK?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 
-- Awarded Best Project at the Department’s Open day.<a href="https://drive.google.com/drive/folders/170TE9JRZBKinvLg0_pAL69TSqAN6dLFK?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
+- Awarded Best Project at the Department’s Open day.<a href="https://drive.google.com/drive/folders/11ApkhpzVWIk1dp-wjF8Z6nb8vFbPwgeS?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 
 ## Extracurricular
 **Volunteer (_October 2020 - March 2024_) - Way For Life**

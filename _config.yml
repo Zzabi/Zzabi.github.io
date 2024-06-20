@@ -1,9 +1,9 @@
-title: " "
+title: "Mohammed Zabiullah C"
 logo: images/logo.png
-description: ""
+description: "Aspiring Machine Learning Engineer with a passion for innovation"
 show_downloads: false
 theme: jekyll-theme-minimal
-color-scheme: auto-default-dark
+color-scheme: dark
 # remote_theme: "godalming123/minimal"
 # plugins:
 # - jekyll-remote-theme
