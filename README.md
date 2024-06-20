@@ -27,7 +27,7 @@
 - SSLC | Noble Saint English School - **76.32%** -->
 
 ## Work Experience
-**Internee (_August 2023 - September 2023_) - Varcons Technologies**<a href="https://drive.google.com/file/d/1NkVQvr4G1gqMc4WcAEVY15ieB0uYDvIs/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="15" height="15"></a>
+**Intern (_August 2023 - September 2023_) - Varcons Technologies**<a href="https://drive.google.com/file/d/1NkVQvr4G1gqMc4WcAEVY15ieB0uYDvIs/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="15" height="15"></a>
 - Worked with Twitter's Developer API (now X) to extract and process tweets for sentiment analysis using BERT and TF-IDF vectorizer.
 - Analyzed the impact of Twitter sentiment on stock prices by training a predictive model using stock data.
 - Increased the accuracy of the sentiment classifier model by 5% through fine-tuning
@@ -110,6 +110,8 @@
 
 ## Interests
 Coding • AI • Chess • Drawing • Research • Nature Documentaries
+
+## [Download Resume](https://drive.google.com/file/d/147beiwE3QXn7MCdrioZoGSLKcT8PMZgh/view?usp=drive_link) <a href="https://drive.google.com/file/d/147beiwE3QXn7MCdrioZoGSLKcT8PMZgh/view?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 
 ## Contact
 <table>
