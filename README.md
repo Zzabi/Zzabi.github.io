@@ -46,14 +46,18 @@
 - Developed a canteen app utilizing Firebase Authentication and Real-time Database, enabling seamless food ordering, real-time updates, and secure payments for users
 - Snackzy is a food ordering app designed for canteens. It supports real-time ordering and includes features for authentication, payment, and admin management. Admins can add or delete new items from the menu, and users can authenticate and make payments seamlessly.
 
-### Recipe Cookbook <a href="https://github.com/Zzabi/RecipeCookbook"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
-- Created an application to store and display recipes, allowing users to add and filter recipes by meal type and dietary preference.
-- Used MySQL as the database and Tkinter for front end.
-
 ### Facial Emotion Detection <a href="https://github.com/Zzabi/Facial-emotion-Detection"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
+
 - Developed a Facial Emotion Recognition system using neural networks and deep learning techniques to train the model on a comprehensive dataset to accurately identify emotions from facial expressions
 - Developed a deep learning model that classifies facial emotions into seven categories: angry, disgust, fear, happy, neutral, sad, and surprise.
 -  The model has been trained on the FER-2013 dataset and achieves an accuracy of 90% after 30 epochs.
+
+### Recipe Cookbook <a href="https://github.com/Zzabi/RecipeCookbook"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
+
+- Created an application to store and display recipes, allowing users to add and filter recipes by meal type and dietary preference.
+- Used MySQL as the database and Tkinter for front end.
+- Recipe Cookbook is a desktop application that allows users to store, explore, and provide feedback on recipes. The application uses MySQL for database management and Tkinter for the graphical user interface.
+
 
 ## Technical Skills
 <table>
