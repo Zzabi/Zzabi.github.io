@@ -38,26 +38,45 @@
 ### Automated Waste Segregation using Computer Vision <a href="https://github.com/Zzabi/Waste_Detection_YOLOv5"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 
 - Developed an advanced waste segregation system using YOLOv5 for accurate identification and classification of various waste materials, enhancing recycling efficiency and environmental sustainability.
-- This project aims to detect and classify 7 classes of waste which include paper , plastic , metal , cardboard , glass , thermocol and wet-waste. The model has been trained on datasets which are a combination of already available datasets from roboflow and images collected and manually annotated using LabelImg which consisted a total of around 7000 images. The model achieves an accuracy of 85% after 50 epochs.
+- This project aims to detect and classify 7 classes of waste which include paper , plastic , metal , cardboard , glass , thermocol and wet-waste. The model has been trained on datasets which are a combination of already available datasets from roboflow and images collected and manually annotated using LabelImg which consisted a total of around 7000 images. The model achieves an accuracy of 85% after 50 epochs.<br>
+<div style="text-align: center;">
+  <img src="images/waste_segregation.jpg" alt="GitHub" width="300" height="300">
+</div>
+
 
 
 ### Food Ordering App <a href="https://github.com/Zzabi/Snackzy"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 
 - Developed a canteen app utilizing Firebase Authentication and Real-time Database, enabling seamless food ordering, real-time updates, and secure payments for users
 - Snackzy is a food ordering app designed for canteens. It supports real-time ordering and includes features for authentication, payment, and admin management. Admins can add or delete new items from the menu, and users can authenticate and make payments seamlessly.
+<table>
+  <tr>
+    <td><img src="images/snackzy_1.jpg" alt=" 1" width="250" height="400"/></td>
+    <td><img src="images/snackzy_2.jpg" alt=" 2" width="250" height="400"/></td>
+    <td><img src="images/snackzy_3.jpg" alt=" 3" width="250" height="400"/></td>
+  </tr>
+</table>
 
 ### Facial Emotion Detection <a href="https://github.com/Zzabi/Facial-emotion-Detection"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 
 - Developed a Facial Emotion Recognition system using neural networks and deep learning techniques to train the model on a comprehensive dataset to accurately identify emotions from facial expressions
 - Developed a deep learning model that classifies facial emotions into seven categories: angry, disgust, fear, happy, neutral, sad, and surprise.
 -  The model has been trained on the FER-2013 dataset and achieves an accuracy of 90% after 30 epochs.
+<div style="text-align: center;">
+  <img src="images/facial_emotion_detection.jpg" alt="GitHub" width="300" height="200">
+</div>
 
 ### Recipe Cookbook <a href="https://github.com/Zzabi/RecipeCookbook"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 
 - Created an application to store and display recipes, allowing users to add and filter recipes by meal type and dietary preference.
 - Used MySQL as the database and Tkinter for front end.
 - Recipe Cookbook is a desktop application that allows users to store, explore, and provide feedback on recipes. The application uses MySQL for database management and Tkinter for the graphical user interface.
-
+<table>
+  <tr>
+    <td><img src="images/recipe_1.jpg" alt=" 1" width="350" height="250"/></td>
+    <td><img src="images/recipe_2.jpg" alt=" 2" width="350" height="250"/></td>
+  </tr>
+</table>
 
 ## Technical Skills
 <table>
