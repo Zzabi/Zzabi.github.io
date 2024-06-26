@@ -158,7 +158,7 @@ Coding • AI • Chess • Drawing • Research • Nature Documentaries
     <td><a href="mailto:mohammedzabiullahc@gmail.com"> <img src="images/gmail.png" alt="GitHub" width="45" height="30"></a></td>
     <td><a href="https://www.linkedin.com/in/mohammed-zabiullah-c/"> <img src="images/linked_in.png" alt="GitHub" width="45" height="45"></a></td>
     <td><a href="tel:+91 9731940313"> <img src="images/phone.png" alt="GitHub" width="40" height="40"></a></td>
-    <td><a href="https://github.com/Zzabi/"> <img src="images/github.jpg" alt="GitHub" width="30" height="30"></a></td>
+    <td><a href="https://github.com/Zzabi/"> <img src="images/github.jpg" alt="GitHub" width="40" height="40"></a></td>
   </tr>
 </table>
 
