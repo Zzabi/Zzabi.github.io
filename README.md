@@ -51,9 +51,9 @@
 - Snackzy is a food ordering app designed for canteens. It supports real-time ordering and includes features for authentication, payment, and admin management. Admins can add or delete new items from the menu, and users can authenticate and make payments seamlessly.
 <table>
   <tr>
-    <td><img src="images/snackzy_1.jpg" alt=" 1" width="250" height="400"/></td>
-    <td><img src="images/snackzy_2.jpg" alt=" 2" width="250" height="400"/></td>
-    <td><img src="images/snackzy_3.jpg" alt=" 3" width="250" height="400"/></td>
+    <td><img src="images/snackzy_1.jpg" alt=" 1" width="250" height="300"/></td>
+    <td><img src="images/snackzy_2.jpg" alt=" 2" width="250" height="300"/></td>
+    <td><img src="images/snackzy_3.jpg" alt=" 3" width="250" height="300"/></td>
   </tr>
 </table>
 
