@@ -25,12 +25,14 @@
 <!-- - B.E. AIML | Dayananda Sagar Academy of Technology and Management - **8.9** CGPA								       		
 - PUC (PCMB) | Narayana PU College - **91.83%**
 - SSLC | Noble Saint English School - **76.32%** -->
+<br>
 
 ## Work Experience
 **Intern (_August 2023 - September 2023_) - Varcons Technologies**<a href="https://drive.google.com/file/d/1NkVQvr4G1gqMc4WcAEVY15ieB0uYDvIs/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="15" height="15"></a>
 - Worked with Twitter's Developer API (now X) to extract and process tweets for sentiment analysis using BERT and TF-IDF vectorizer.
 - Analyzed the impact of Twitter sentiment on stock prices by training a predictive model using stock data.
 - Increased the accuracy of the sentiment classifier model by 5% through fine-tuning
+<br>
 
 
 ## Projects
@@ -42,8 +44,7 @@
 <div style="text-align: center;">
   <img src="images/waste_segregation.jpg" alt="GitHub" width="300" height="300">
 </div>
-
-
+<br>
 
 ### Food Ordering App <a href="https://github.com/Zzabi/Snackzy"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 
@@ -56,6 +57,7 @@
     <td><img src="images/snackzy_3.jpg" alt=" 3" width="250" height="300"/></td>
   </tr>
 </table>
+<br>
 
 ### Facial Emotion Detection <a href="https://github.com/Zzabi/Facial-emotion-Detection"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 
@@ -65,6 +67,7 @@
 <div style="text-align: center;">
   <img src="images/facial_emotion_detection.jpg" alt="GitHub" width="300" height="200">
 </div>
+<br>
 
 ### Recipe Cookbook <a href="https://github.com/Zzabi/RecipeCookbook"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 
@@ -77,6 +80,7 @@
     <td><img src="images/recipe_2.jpg" alt=" 2" width="350" height="250"/></td>
   </tr>
 </table>
+<br>
 
 ## Technical Skills
 <table>
@@ -109,6 +113,7 @@
     <td>Project Management</td>
   </tr>
 </table>
+<br>
 
 ## Certifications
 - Python _Coursera_ <a href="https://drive.google.com/file/d/1nJTJ9ecLb8AI1R8b4zrHQiU6ElApyiOr/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
@@ -118,13 +123,14 @@
 - Deep Learning _Infosys Springboard_ <a href="https://drive.google.com/file/d/1K3qE2I4XXYBPWqsDxIEehAJpB-4hZmr9/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
 - Power BI _Infosys Springboard_ <a href="https://drive.google.com/file/d/1ypuvT-_dEzwhpUjgsOUaWpA3n-XKkiBT/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
 - Workshops on IOT,AIML, Web Development, Computer Vision, Communication Skills, Decision Making conducted at Dept of AIML, DSATM <a href="https://drive.google.com/drive/folders/1-T0eIwkzZqLlrbEgB-3qe2Q9khJwac7B?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
-
+<br>
 
 ## Achievements
 - Won 1st place in a Coding contest conducted at the institute.<a href="https://drive.google.com/drive/folders/170TE9JRZBKinvLg0_pAL69TSqAN6dLFK?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 <div style="text-align: center;">
   <img src="images/coding_contest.jpeg" alt="GitHub" width="300" height="300">
 </div>
+<br>
 
 - Awarded Best Project at the Department’s Open day.<a href="https://drive.google.com/drive/folders/11ApkhpzVWIk1dp-wjF8Z6nb8vFbPwgeS?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
 <div style="text-align: center;">
@@ -132,18 +138,19 @@
 </div>
 
 <!-- - Earned a Gold Badge on HackerRank for Python coding skills. <a href="https://drive.google.com/file/d/1fEggcYdHNSPEYzf-EAmPXpwDrqCnNAD5/view?usp=sharing"><img src="images/external_link.png" alt="GitHub" width="20" height="20"></a> -->
+<br>
 
 ## Extracurricular
 **Volunteer (_October 2022 - March 2024_) - Way For Life**<a href="https://drive.google.com/drive/folders/1EiiVPE90ThcTNm_EgAAF7BN7La7AyOA2?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="15" height="15"></a>
 - Volunteered with an NGO conducting research on government schools, old age homes, and orphanages, while also leading tree planting and community cleaning drives.
 <div style="text-align: center;">
   <img src="images/wfl.jpg" alt="GitHub" width="400" height="300">
-</div>
+</div><br>
 
 ## Interests
 Coding • AI • Chess • Drawing • Research • Nature Documentaries
 
-## [Download Resume](https://drive.google.com/file/d/147beiwE3QXn7MCdrioZoGSLKcT8PMZgh/view?usp=drive_link) <a href="https://drive.google.com/file/d/147beiwE3QXn7MCdrioZoGSLKcT8PMZgh/view?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
+## [Download Resume](https://drive.google.com/file/d/147beiwE3QXn7MCdrioZoGSLKcT8PMZgh/view?usp=drive_link) <a href="https://drive.google.com/file/d/147beiwE3QXn7MCdrioZoGSLKcT8PMZgh/view?usp=drive_link"> <img src="images/external_link.png" alt="Resume" width="20" height="20"></a>
 
 ## Contact
 <table>
