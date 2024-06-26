@@ -122,14 +122,23 @@
 
 ## Achievements
 - Won 1st place in a Coding contest conducted at the institute.<a href="https://drive.google.com/drive/folders/170TE9JRZBKinvLg0_pAL69TSqAN6dLFK?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
+<div style="text-align: center;">
+  <img src="images/coding_contest.jpeg" alt="GitHub" width="300" height="300">
+</div>
 
 - Awarded Best Project at the Department’s Open day.<a href="https://drive.google.com/drive/folders/11ApkhpzVWIk1dp-wjF8Z6nb8vFbPwgeS?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
+<div style="text-align: center;">
+  <img src="images/best_project.jpg" alt="GitHub" width="400" height="300">
+</div>
 
-- Earned a Gold Badge on HackerRank for Python coding skills. <a href="https://drive.google.com/file/d/1fEggcYdHNSPEYzf-EAmPXpwDrqCnNAD5/view?usp=sharing"><img src="images/external_link.png" alt="GitHub" width="20" height="20"></a>
+<!-- - Earned a Gold Badge on HackerRank for Python coding skills. <a href="https://drive.google.com/file/d/1fEggcYdHNSPEYzf-EAmPXpwDrqCnNAD5/view?usp=sharing"><img src="images/external_link.png" alt="GitHub" width="20" height="20"></a> -->
 
 ## Extracurricular
 **Volunteer (_October 2022 - March 2024_) - Way For Life**<a href="https://drive.google.com/drive/folders/1EiiVPE90ThcTNm_EgAAF7BN7La7AyOA2?usp=drive_link"> <img src="images/external_link.png" alt="GitHub" width="15" height="15"></a>
 - Volunteered with an NGO conducting research on government schools, old age homes, and orphanages, while also leading tree planting and community cleaning drives.
+<div style="text-align: center;">
+  <img src="images/wfl.jpg" alt="GitHub" width="400" height="300">
+</div>
 
 ## Interests
 Coding • AI • Chess • Drawing • Research • Nature Documentaries
