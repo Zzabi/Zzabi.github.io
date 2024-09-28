@@ -34,6 +34,11 @@
 - Increased the accuracy of the sentiment classifier model by 5% through fine-tuning
 <br>
 
+**Associate Software Engineer (_August 2024 - Present_) - Accenture**
+- Undergoing comprehensive training in key business processes and Java development.
+- Gaining hands-on experience in enterprise software tools, understanding workflow optimization, and applying object-oriented programming principles to real-world scenarios.
+<br>
+
 
 ## Projects
 
