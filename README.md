@@ -35,8 +35,10 @@
 <br>
 
 **Associate Software Engineer (_August 2024 - Present_) - Accenture**
-- Undergoing comprehensive training in key business processes and Java development.
-- Gaining hands-on experience in enterprise software tools, understanding workflow optimization, and applying object-oriented programming principles to real-world scenarios.
+- Trained in key business processes, Software Development Life Cycle (SDLC), and enterprise workflows.
+- Currently working on Generative AI PoCs using Python, Azure OpenAI models, AutoGen, CrewAI, LangGraph, and open-source LLMs via Hugging Face and Ollama.
+- Exploring agentic AI architectures, advanced prompt engineering, and RAG-based solutions for real-world applications.
+
 <br>
 
 
