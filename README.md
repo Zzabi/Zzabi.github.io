@@ -1,4 +1,4 @@
-# Machine Learning Enthusiast
+# Aspiring AI/ML Engineer | GenAI Enthusiast
 
 ## Education
 <table>
