@@ -157,7 +157,7 @@
 ## Interests
 Coding • AI • Chess • Drawing • Research • Nature Documentaries
 
-## [Download Resume](https://drive.google.com/file/d/1BxXpJbvTC9IcsGRk1heGPc3nlexhTMa2/view?usp=drive_link) <a href="https://drive.google.com/file/d/1BxXpJbvTC9IcsGRk1heGPc3nlexhTMa2/view?usp=drive_link"> <img src="images/external_link.png" alt="Resume" width="20" height="20"></a>
+## [Download Resume](https://drive.google.com/file/d/1fruByCN-Saje82UoIa4ro5tWfnWz5Gxa/view?usp=drive_link) <a href="https://drive.google.com/file/d/1fruByCN-Saje82UoIa4ro5tWfnWz5Gxa/view?usp=drive_link"> <img src="images/external_link.png" alt="Resume" width="20" height="20"></a>
 
 ## Contact
 <table>
