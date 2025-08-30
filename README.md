@@ -124,6 +124,9 @@
 
 ## Certifications
 - Python _Coursera_ <a href="https://drive.google.com/file/d/1nJTJ9ecLb8AI1R8b4zrHQiU6ElApyiOr/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
+- Associate Cloud Engineer _GCP_ <a href="https://www.credly.com/badges/175d2172-e3a5-4650-a1f2-617634c18a59/public_url"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
+- Cloud Digital Leader _GCP_ <a href="https://www.credly.com/badges/c8492bc0-50ab-4a8b-865e-ab0bc09d2f68/public_url"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
+- Gen AI Leader _GCP_ <a href="https://www.credly.com/badges/c5f2c477-2542-4e2e-85b0-47056413837e/public_url"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
 - Java _Infoysy Springboard_ <a href="https://drive.google.com/file/d/1wsMNShLF-mHeIScaIgYbweFU6ZtGUqId/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
 - Android Application Development _Great Learning_ <a href="https://drive.google.com/file/d/1smcLGOihDKbwuRxkDvdlcpIeRjocIgTr/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
 - Machine Learning _Infosys Springboard_ <a href="https://drive.google.com/file/d/1zEM8IMvbQKGL3giwXOH3CNFXpIr0S5nx/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="10" height="10"></a>
