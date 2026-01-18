@@ -34,10 +34,11 @@
 - Increased the accuracy of the sentiment classifier model by 5% through fine-tuning
 <br>
 
-**Associate Software Engineer (_August 2024 - Present_) - Accenture**
-- Trained in key business processes, Software Development Life Cycle (SDLC), and enterprise workflows.
-- Currently working on Generative AI PoCs using Python, Azure OpenAI models, AutoGen, CrewAI, LangGraph, and open-source LLMs via Hugging Face and Ollama.
-- Exploring agentic AI architectures, advanced prompt engineering, and RAG-based solutions for real-world applications.
+**GenAI Engineer (_August 2024 - Present_) - Accenture**
+– Built multiple enterprise-grade Generative AI PoCs to modernize legacy applications and improve engineering workflows, increasing team efficiency by 40%.
+– Automated documentation workflows using OpenAI models and AutoGen, reducing manual effort by 70%.
+– Developed agentic automation flows using AWS Bedrock Agents, AgentCore, and native AWS services, cutting operational overhead by 30–40%.
+– Created MCP-compliant servers and IDE-integrated agents enabling context-aware codebase queries, boosting developer productivity by 50%
 
 <br>
 
@@ -159,8 +160,8 @@
 
 ## Interests
 Coding • AI • Chess • Drawing • Research • Nature Documentaries
-
-## [Download Resume](https://drive.google.com/file/d/1fruByCN-Saje82UoIa4ro5tWfnWz5Gxa/view?usp=drive_link) <a href="https://drive.google.com/file/d/1fruByCN-Saje82UoIa4ro5tWfnWz5Gxa/view?usp=drive_link"> <img src="images/external_link.png" alt="Resume" width="20" height="20"></a>
+https://drive.google.com/file/d/1YzMSQ_hxtYJTgimZY0njn1vinUIfZ2Vg/view?usp=sharing
+## [Download Resume](https://drive.google.com/file/d/1YzMSQ_hxtYJTgimZY0njn1vinUIfZ2Vg/view?usp=drive_link) <a href="https://drive.google.com/file/d/1YzMSQ_hxtYJTgimZY0njn1vinUIfZ2Vg/view?usp=drive_link"> <img src="images/external_link.png" alt="Resume" width="20" height="20"></a>
 
 ## Contact
 <table>
