@@ -35,10 +35,10 @@
 <br>
 
 **GenAI Engineer (_August 2024 - Present_) - Accenture**
-– Built multiple enterprise-grade Generative AI PoCs to modernize legacy applications and improve engineering workflows, increasing team efficiency by 40%.
-– Automated documentation workflows using OpenAI models and AutoGen, reducing manual effort by 70%.
-– Developed agentic automation flows using AWS Bedrock Agents, AgentCore, and native AWS services, cutting operational overhead by 30–40%.
-– Created MCP-compliant servers and IDE-integrated agents enabling context-aware codebase queries, boosting developer productivity by 50%
+- Built multiple enterprise-grade Generative AI PoCs to modernize legacy applications and improve engineering workflows, increasing team efficiency by 40%.
+- Automated documentation workflows using OpenAI models and AutoGen, reducing manual effort by 70%.
+- Developed agentic automation flows using AWS Bedrock Agents, AgentCore, and native AWS services, cutting operational overhead by 30–40%.
+- Created MCP-compliant servers and IDE-integrated agents enabling context-aware codebase queries, boosting developer productivity by 50%
 
 <br>
 
