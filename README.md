@@ -1,7 +1,18 @@
-# Aspiring AI/ML Engineer | GenAI Enthusiast
+# AI Engineer | Generative AI, LLM Systems & Multi-Agent Architectures | AWS-Native AI Solutions
+
+
+## Work Experience
+
+**AI Engineering Analyst  (_August 2024 - Present_) - Accenture**
+- Built enterprise-grade Generative AI and agentic AI PoCs to modernize legacy applications and enhance engineering workflows, increasing team efficiency by **40%**.
+- Automated engineering documentation and knowledge workflows using **OpenAI models and AutoGen-based agents**, reducing manual effort by **~70%**.
+- Developed **multi-agent automation systems** using **AWS Bedrock Agents, AgentCore, Lambda, and native AWS services**, reducing operational overhead by **30–40%**.
+- Created **MCP-compliant servers and IDE-integrated developer agents** enabling context-aware codebase queries and AI-assisted workflows, improving developer productivity by **~50%**.
+
+<br>
 
 ## Education
-<table>
+<!-- <table>
   <tr>
     <td>B.E</td>
     <td>Artificial Intelligence and Machine Learning</td>
@@ -20,28 +31,28 @@
     <td>Noble Saint English School</td>
     <td>76.32%</td>
   </tr>
-</table>
+</table> -->
 
 <!-- - B.E. AIML | Dayananda Sagar Academy of Technology and Management - **8.9** CGPA								       		
 - PUC (PCMB) | Narayana PU College - **91.83%**
 - SSLC | Noble Saint English School - **76.32%** -->
+
+**B.E. in Artificial Intelligence and Machine Learning**<br>
+Dayananda Sagar Academy of Technology and Management (VTU) — **CGPA: 8.9**
+
+**Core Coursework & Technical Foundations**
+
+* **Programming:** Python Programming, Object-Oriented Programming
+* **Machine Learning & AI:** Machine Learning, Artificial Intelligence, Deep Learning fundamentals
+* **Mathematics for ML:** Linear Algebra, Probability & Statistics, Optimization methods
+* **Algorithms:** Data Structures and Algorithms, Algorithm Design
+* **Systems:** Operating Systems, Linux Systems, Computer Networks
+* **Data Management:** Database Management Systems (SQL, data modeling)
+* **Software Engineering:** Software Development Practices, Project Development, System Design fundamentals
+
+**Academic Focus**
+Applied AI systems, ML model development, software engineering for intelligent applications, and building end-to-end projects involving data, algorithms, and scalable systems.
 <br>
-
-## Work Experience
-**Intern (_August 2023 - September 2023_) - Varcons Technologies**<a href="https://drive.google.com/file/d/1NkVQvr4G1gqMc4WcAEVY15ieB0uYDvIs/view?usp=sharing"> <img src="images/external_link.png" alt="GitHub" width="15" height="15"></a>
-- Worked with Twitter's Developer API (now X) to extract and process tweets for sentiment analysis using BERT and TF-IDF vectorizer.
-- Analyzed the impact of Twitter sentiment on stock prices by training a predictive model using stock data.
-- Increased the accuracy of the sentiment classifier model by 5% through fine-tuning
-<br>
-
-**GenAI Engineer (_August 2024 - Present_) - Accenture**
-- Built multiple enterprise-grade Generative AI PoCs to modernize legacy applications and improve engineering workflows, increasing team efficiency by 40%.
-- Automated documentation workflows using OpenAI models and AutoGen, reducing manual effort by 70%.
-- Developed agentic automation flows using AWS Bedrock Agents, AgentCore, and native AWS services, cutting operational overhead by 30–40%.
-- Created MCP-compliant servers and IDE-integrated agents enabling context-aware codebase queries, boosting developer productivity by 50%
-
-<br>
-
 
 ## Projects
 
@@ -161,7 +172,7 @@
 ## Interests
 Coding • AI • Chess • Drawing • Research • Nature Documentaries
 
-## [Download Resume](https://drive.google.com/file/d/1YzMSQ_hxtYJTgimZY0njn1vinUIfZ2Vg/view?usp=drive_link) <a href="https://drive.google.com/file/d/1YzMSQ_hxtYJTgimZY0njn1vinUIfZ2Vg/view?usp=drive_link"> <img src="images/external_link.png" alt="Resume" width="20" height="20"></a>
+## [Download Resume](https://drive.google.com/file/d/1LOhDjamjJyCt-wtetQcqLwBCTh9whLzJ/view?usp=drive_link) <a href="https://drive.google.com/file/d/1LOhDjamjJyCt-wtetQcqLwBCTh9whLzJ/view?usp=drive_link"> <img src="images/external_link.png" alt="Resume" width="20" height="20"></a>
 
 ## Contact
 <table>
