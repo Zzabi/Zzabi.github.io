@@ -1,13 +1,13 @@
-# AI Engineer | Generative AI, LLM Systems & Multi-Agent Architectures | AWS-Native AI Solutions
+# Software Engineer | Generative AI, Agentic Systems, Backend APIs, Cloud and DevOps
 
 
 ## Work Experience
 
 **AI Engineering Analyst  (_August 2024 - Present_) - Accenture**
-- Built enterprise-grade Generative AI and agentic AI PoCs to modernize legacy applications and enhance engineering workflows, increasing team efficiency by **40%**.
-- Automated engineering documentation and knowledge workflows using **OpenAI models and AutoGen-based agents**, reducing manual effort by **~70%**.
-- Developed **multi-agent automation systems** using **AWS Bedrock Agents, AgentCore, Lambda, and native AWS services**, reducing operational overhead by **30–40%**.
-- Created **MCP-compliant servers and IDE-integrated developer agents** enabling context-aware codebase queries and AI-assisted workflows, improving developer productivity by **~50%**.
+- Built enterprise-grade Generative AI and agentic AI PoCs to modernize legacy applications and enhance engineering workflows, increasing team efficiency by 40%.
+- Automated engineering documentation and knowledge workflows using OpenAI models and AutoGen-based agents, reducing manual effort by ~70%.
+- Developed multi-agent automation systems using AWS Bedrock Agents, AgentCore, Lambda, and native AWS services, reducing operational overhead by 30–40%.
+- Created MCP-compliant servers and IDE-integrated developer agents enabling context-aware codebase queries and AI-assisted workflows, improving developer productivity by ~50%.
 
 <br>
 
@@ -38,17 +38,17 @@
 - SSLC | Noble Saint English School - **76.32%** -->
 
 **B.E. in Artificial Intelligence and Machine Learning**<br>
-Dayananda Sagar Academy of Technology and Management (VTU) — **CGPA: 8.9**
+Dayananda Sagar Academy of Technology and Management — CGPA: 8.9
 
 **Core Coursework & Technical Foundations**
 
-* **Programming:** Python Programming, Object-Oriented Programming
-* **Machine Learning & AI:** Machine Learning, Artificial Intelligence, Deep Learning fundamentals
-* **Mathematics for ML:** Linear Algebra, Probability & Statistics, Optimization methods
-* **Algorithms:** Data Structures and Algorithms, Algorithm Design
-* **Systems:** Operating Systems, Linux Systems, Computer Networks
-* **Data Management:** Database Management Systems (SQL, data modeling)
-* **Software Engineering:** Software Development Practices, Project Development, System Design fundamentals
+* Programming: Python Programming, Object-Oriented Programming
+* Machine Learning & AI: Machine Learning, Artificial Intelligence, Deep Learning fundamentals
+* Mathematics for ML: Linear Algebra, Probability & Statistics, Optimization methods
+* Algorithms: Data Structures and Algorithms, Algorithm Design
+* Systems: Operating Systems, Linux Systems, Computer Networks
+* Data Management: Database Management Systems (SQL, data modeling)
+* Software Engineering: Software Development Practices, Project Development, System Design fundamentals
 
 **Academic Focus**
 Applied AI systems, ML model development, software engineering for intelligent applications, and building end-to-end projects involving data, algorithms, and scalable systems.
